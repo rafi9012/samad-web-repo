@@ -26,3 +26,32 @@
 
     
 }
+.first-title{
+    font-weight: bold;
+    font-size: 88px;
+    color: #FF0000;
+    margin-bottom: 48px;
+}
+.second-title{
+    font-weight: normal;
+    font-size: 24px;
+    color:#FF0000;
+    margin-bottom: 16px;
+}
+.third-title{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-top: 16px;
+}
+.off-rafi{
+    text-align: center;
+}
+img{
+    width: 800px;
+    height: 500px;
+
+}
+.image{
+    margin-bottom: 120px;
+}
