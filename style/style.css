@@ -1,0 +1,28 @@
+.happy{
+    font-weight: normal;
+    font-size: 32px;
+    color: #FFFFFF;
+}
+.party{
+    font-weight: bold;
+    font-size: 72px;
+    color: #FFFFFF;
+    margin-top: 22px;
+    
+   
+}
+.first-project{
+    background:rgba(0,0,0,0.7)url(../images/resources/Banner\ Image.png);
+    background-blend-mode: darken;
+    width: 1320px; height: 600px;
+    margin: 50px 140px 120px 140px;
+
+
+}
+.new-year-title-section{
+    text-align: center;
+    padding: 160px 344px;
+  
+
+    
+}
