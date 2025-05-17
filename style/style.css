@@ -16,6 +16,7 @@
     background-blend-mode: darken;
     width: 1320px; height: 600px;
     margin: 50px 140px 120px 140px;
+    
 
 
 }
@@ -46,6 +47,7 @@
 }
 .off-rafi{
     text-align: center;
+   
 }
 img{
     width: 800px;
@@ -53,5 +55,32 @@ img{
 
 }
 .image{
-    margin-bottom: 120px;
+        margin-bottom: 120px;
+        margin-right: 400px;
+        margin-left: 400px;
+
+    }
+   
+
+   
+
+.Third-project{
+    background:rgba(0,0,0,0.7)url(../images/resources/Vectorrr.png);
+    background-blend-mode: darken;
+    width: 1334px;
+    height:602px ;
+    margin-right: 140px;
+    margin-left: 126px;
+    border-radius: 16px;}
+
+
+.midnight{
+    font-weight: bold;
+    font-size: 64px;
+    color: #FFFFFF;
+}
+.dolor{
+    font-weight: normal;
+    font-size: 18px;
+    color: #FFFFFF;
 }
