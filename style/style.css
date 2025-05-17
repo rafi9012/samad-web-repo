@@ -45,10 +45,16 @@
     color: #070211;
     margin-top: 16px;
 }
+
+ 
 .off-rafi{
-    text-align: center;
-   
+padding-left: 609px;
+padding-right: 608px;
 }
+
+  
+   
+
 img{
     width: 800px;
     height: 500px;
@@ -56,10 +62,11 @@ img{
 }
 .image{
         margin-bottom: 120px;
-        margin-right: 400px;
         margin-left: 400px;
-
+        margin-right: 397px;
+       
     }
+
    
 
    
