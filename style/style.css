@@ -263,6 +263,69 @@ img.group-96{
     height: 433px;
     margin-top: 38px;
 }
+.gifts{
+    font-weight: normal;
+    font-size: 24px;
+    color: #FF0000;
+}
+.awosme{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    width: 56px;
+    height: 60px;
+}
+.risus{
+    font-weight: normal;
+    font-size: 20px;
+    color: cadetblue;
+}
+.seventh-project{
+    margin-left: 140px;
+    width: 1320px;
+    height: 1163px;
+}
+.sixth-pic{
+    display: flex;
+    border-radius: 16px;
+}
+.next-pic{
+    display: flex;
+    border-radius: 16px;
+    
+
+}
+.bag-1{
+    width: 424px;
+    height: 450px;
+    margin-right: 24px;
+}
+.bag-2{
+     width: 424px;
+    height: 450px;
+     margin-right: 24px;
+}
+.juta-1{
+     width: 424px;
+    height: 450px;
+}
+.juta-2{
+     width: 424px;
+    height: 450px;
+     margin-right: 24px;
+}
+.chosma{
+     width: 424px;
+    height: 450px;
+     margin-right: 24px;
+
+}
+.churi{
+     width: 424px;
+    height: 450px;
+}
+
+
 
    
 
