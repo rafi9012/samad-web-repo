@@ -330,6 +330,7 @@ img.group-96{
     margin-left: 140px;
     background-color: bisque;
     border-radius: 16px;
+    margin-bottom: 120px;
 }
 .mail-box{
     width: 150px;
@@ -366,6 +367,75 @@ img.group-96{
     outline: none;
    
 }
+.ninth-section{
+    
+    background-color: #070211;
+    width: 1600px;
+    height: 609px;
+}
+.pokku{
+    width: 24px;
+    height: 24px;
+    margin-bottom: 8px;
+}
+.dhon{width: 24px;
+    height: 24px;
+
+}
+.building{
+    font-weight: normal;
+    font-size: 24px;
+    color: #FFFFFF;
+    margin-top: 120px;
+    margin-left: 140px;
+}
+.last{
+    display: flex;
+    justify-content: space-between;
+}
+.call{
+    margin-top: 120px;
+    margin-right: 503px;
+    display: block;
+}
+.slide{
+    display: flex;
+}
+.number{
+   color: #FFFFFF;
+   font-weight: normal;
+   font-size: 24px;
+}
+.blide{
+    display: flex;
+}
+.website{
+     color: #FFFFFF;
+   font-weight: normal;
+   font-size: 24px
+}
+.content{
+    display: flex;
+    justify-content: center;
+}
+.twt{
+    width: 64px;
+    height: 64px;}
+    .mihsan{
+        font-weight: normal;
+        font-size: 24px;
+        color: #FFFFFF;
+        margin-left: 140px;
+        margin-right: 140px;
+
+    }
+    .rasheda{
+        display: flex;
+        justify-content: space-between;
+    }
+    
+
+
 
    
 
