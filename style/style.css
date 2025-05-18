@@ -122,7 +122,7 @@ img{
     margin-left: 140px;
     width: 1320px;
     height: 420px;
-   background-color: beige;
+   
    border-radius: 16px;
    margin-bottom: 124px;
 }
@@ -150,9 +150,10 @@ color: #FFFFFF;}
 .fifth-project{
     width: 1320px;
     height: 470px;
-    background-color: beige ;
+    
     margin-left: 140px;
     margin-right: 140px;
+    margin-bottom: 120px;
 }
 .best{
     font-weight: normal;
@@ -199,6 +200,70 @@ img.group-96{
     display: flex;
     justify-content: space-between;
 }
+.sale{
+    font-weight: bold;
+    font-size: 72px;
+    color: #070211;
+    margin-bottom: 30px;
+    margin-top: 20px;
+   
+}
+.function{
+    font-weight: normal;
+    font-size: 24px;
+    color: #070211;
+   
 
+}
+   
+.holiday{
+    color: #FF0000;
+}
+.sixth-project{
+    margin-left: 140px;
+    margin-right: 140px;
+    width: 1320px;
+    height: 987px;
+     background: url(../images/resources/Rectangle\ 2.png);
+    background-position: bottom;
+    background-repeat: no-repeat;
+    border-radius: 16px;
+    margin-bottom: 120px;
+    
+    
+    
+   
+}
+.shekhor{
+    text-align: center;
+}
+.live{
+    font-weight: normal;
+    font-size: 20px;
+    color: #070211;
+   
+}
+.image-rafi{display: flex;
+   
+}
+.box{
+    width: 674px;
+    height: 577px;
+    margin-top: 70px;
+    im
+}
+.discount{
+    width: 220px;
+    height: 220px;
+    margin-top: 120px;
+   
+}
+.girl{
+    width: 429px;
+    height: 433px;
+    margin-top: 38px;
+}
+
+   
 
     
