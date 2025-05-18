@@ -124,6 +124,7 @@ img{
     height: 420px;
    background-color: beige;
    border-radius: 16px;
+   margin-bottom: 124px;
 }
 .address{
     text-align: center;
@@ -146,5 +147,58 @@ background-color: #FF0000;
 border-radius: 8px;
 color: #FFFFFF;}
 
+.fifth-project{
+    width: 1320px;
+    height: 470px;
+    background-color: beige ;
+    margin-left: 140px;
+    margin-right: 140px;
+}
+.best{
+    font-weight: normal;
+    font-size: 24px;
+    color: #FF0000;
+    margin-top: 110px;
+}
+.soon{font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-top: 16px;
 
+}
+  .eget{
+    font-weight: normal;
+    font-size: 20px;
+    color: #070211;
+    margin-top: 22px;
+  }
+  .egg{
+    width: 364.84px;
+    height: 364.84px;
+   
+}
+img.egg{
+    border-radius: 50%;
+    border: 20px solid red;
+    padding: 49px ;
+}
+    
   
+
+.rakib{
+    font-weight: bold;
+    font-size: 48px;
+    color: #FF0000;
+    margin-top: 110px;
+}
+img.group-96{
+    width: 140px;
+    height: 140px;
+}
+.all-title{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+    
