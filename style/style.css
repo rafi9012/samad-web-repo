@@ -80,6 +80,7 @@ img{
     margin-right: 140px;
     margin-left: 126px;
     border-radius: 16px;
+    margin-bottom: 120px;
     
 }
 
@@ -117,3 +118,33 @@ img{
 .buton-rock{
     margin-left: 40px;
 }
+.fourth-project{
+    margin-left: 140px;
+    width: 1320px;
+    height: 420px;
+   background-color: beige;
+   border-radius: 16px;
+}
+.address{
+    text-align: center;
+    padding: 100px 386px 110px 385px;
+}
+.hotel{
+    font-weight: 600px;
+    font-size: 32px;
+    color: #070211;
+}
+.green{
+    color: #FF0000;
+}
+.rafi{
+    width: 167px;
+    height: 56px;
+    font-weight: 600px;
+    font-size: 18px;
+background-color: #FF0000;
+border-radius: 8px;
+color: #FFFFFF;}
+
+
+  
