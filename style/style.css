@@ -16,6 +16,7 @@
     background-blend-mode: darken;
     width: 1320px; height: 600px;
     margin: 50px 140px 120px 140px;
+    border-radius: 16px;
     
 
 
@@ -78,16 +79,41 @@ img{
     height:602px ;
     margin-right: 140px;
     margin-left: 126px;
-    border-radius: 16px;}
+    border-radius: 16px;
+    
+}
 
 
 .midnight{
     font-weight: bold;
     font-size: 64px;
     color: #FFFFFF;
+    margin-bottom: 24px;
 }
 .dolor{
     font-weight: normal;
     font-size: 18px;
     color: #FFFFFF;
+   
+    
+}
+.long-jump{
+    width: 319px;
+    height: 464px;
+    padding-top: 66px;
+    padding-right: 124px;
+    padding-bottom: 69px;
+   
+    
+}
+.twenty-four{
+   display: flex;
+   justify-content: space-between;
+}
+.only-left{
+    padding-top: 124px;
+    padding-left: 140px;
+}
+.buton-rock{
+    margin-left: 40px;
 }
