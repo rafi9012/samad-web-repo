@@ -324,6 +324,50 @@ img.group-96{
      width: 424px;
     height: 450px;
 }
+.eightth-project{
+    width: 1320px;
+    height: 616px;
+    margin-left: 140px;
+    background-color: bisque;
+    border-radius: 16px;
+}
+.mail-box{
+    width: 150px;
+    height: 150px;
+    margin-top: 80px;
+    margin-left: 585px;
+    margin-right: 585px;
+  
+}
+.subscribe{
+    font-weight: bold;
+    font-size: 48px;
+    color: #070211;
+    margin-bottom: 22px;
+    margin-top: 40px;
+}
+.sit{
+    font-weight: normal;
+    font-size: 20px;
+    color: cadetblue;}
+    
+.mariyam{
+    text-align: center;
+}
+.red{
+    background: #FF0000;
+    padding: 18px;
+    border-radius: 20px;
+    outline: none;
+}
+.form-box input {
+    padding: 18px;
+    border-radius: 20px;
+    outline: none;
+   
+}
+
+   
 
 
 
